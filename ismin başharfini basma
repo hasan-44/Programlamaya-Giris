@@ -1,0 +1,10 @@
+public class harfbasma {
+    public static void main(String[] args){
+        Scanner k=new Scanner(System.in);
+        System.out.print("İsmi girin:");String m=k.next();
+        System.out.print("İsmi girin:");String n=k.next();
+        System.out.print(m.charAt(0));
+        System.out.print(n.charAt(0));
+        System.out.println();
+}
+}
